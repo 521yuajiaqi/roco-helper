@@ -119,8 +119,7 @@ function onFeedback() {
 }
 
 function onOpenGitHub() {
-  // TODO: 替换为实际 GitHub 仓库地址
-  showToast('GitHub 仓库地址待配置')
+  window.open('https://github.com/521yuajiaqi/roco-helper', '_blank')
 }
 
 function onTabChange(name) {
