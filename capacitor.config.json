@@ -1,0 +1,8 @@
+{
+  "appId": "com.roco.helper",
+  "appName": "洛克王国助手",
+  "webDir": "dist",
+  "server": {
+    "cleartext": true
+  }
+}

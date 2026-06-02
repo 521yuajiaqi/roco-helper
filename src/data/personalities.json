@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "固执",
+    "effect": "物攻+10%，魔攻-10%",
+    "atk_mod": 1.1,
+    "def_mod": 1.0,
+    "spa_mod": 0.9,
+    "spd_mod": 1.0,
+    "spe_mod": 1.0
+  },
+  {
+    "id": 2,
+    "name": "开朗",
+    "effect": "速度+10%，魔攻-10%",
+    "atk_mod": 1.0,
+    "def_mod": 1.0,
+    "spa_mod": 0.9,
+    "spd_mod": 1.0,
+    "spe_mod": 1.1
+  },
+  {
+    "id": 3,
+    "name": "胆小",
+    "effect": "速度+10%，物攻-10%",
+    "atk_mod": 0.9,
+    "def_mod": 1.0,
+    "spa_mod": 1.0,
+    "spd_mod": 1.0,
+    "spe_mod": 1.1
+  },
+  {
+    "id": 4,
+    "name": "保守",
+    "effect": "魔攻+10%，物攻-10%",
+    "atk_mod": 0.9,
+    "def_mod": 1.0,
+    "spa_mod": 1.1,
+    "spd_mod": 1.0,
+    "spe_mod": 1.0
+  },
+  {
+    "id": 5,
+    "name": "沉着",
+    "effect": "魔防+10%，物攻-10%",
+    "atk_mod": 0.9,
+    "def_mod": 1.0,
+    "spa_mod": 1.0,
+    "spd_mod": 1.1,
+    "spe_mod": 1.0
+  }
+]

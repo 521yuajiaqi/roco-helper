@@ -1,0 +1,5774 @@
+[
+  {
+    "pet_id": 1,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 1,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 1,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 1,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 1,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 2,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 3,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 4,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 5,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 5,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 6,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 6,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 7,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 7,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 8,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 8,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 8,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 9,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 9,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 9,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 10,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 10,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 10,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 11,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 11,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 12,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 12,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 12,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 13,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 13,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 13,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 14,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 14,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 14,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 15,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 15,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 16,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 16,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 17,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 17,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 18,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 18,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 19,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 19,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 20,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 20,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 21,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 21,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 21,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 22,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 22,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 22,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 23,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 23,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 23,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 24,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 24,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 24,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 25,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 25,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 25,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 26,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 26,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 26,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 27,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 27,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 27,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 28,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 28,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 28,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 29,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 29,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 29,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 30,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 30,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 31,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 31,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 32,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 32,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 32,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 32,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 32,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 33,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 33,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 33,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 33,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 33,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 34,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 34,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 34,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 34,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 34,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 35,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 36,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 36,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 36,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 37,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 37,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 37,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 38,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 38,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 38,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 39,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 40,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 41,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 42,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 43,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 44,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 44,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 44,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 45,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 45,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 45,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 46,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 46,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 46,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 47,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 47,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 48,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 48,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 49,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 49,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 49,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 50,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 50,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 50,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 51,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 51,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 51,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 52,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 52,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 52,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 52,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 53,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 53,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 53,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 53,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 54,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 54,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 54,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 55,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 55,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 55,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 56,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 56,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 56,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 57,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 57,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 57,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 58,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 58,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 58,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 59,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 59,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 59,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 59,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 60,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 60,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 61,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 61,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 62,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 62,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 66,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 66,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 66,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 66,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 66,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 67,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 67,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 67,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 67,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 67,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 68,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 68,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 68,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 68,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 68,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 69,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 70,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 71,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 71,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 71,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 72,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 72,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 72,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 73,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 73,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 74,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 74,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 75,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 75,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 76,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 76,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 76,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 76,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 77,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 77,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 77,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 77,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 78,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 78,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 78,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 78,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 79,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 79,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 79,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 80,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 80,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 80,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 80,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 81,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 81,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 81,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 81,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 85,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 85,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 86,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 86,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 87,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 87,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 88,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 88,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 88,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 88,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 88,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 89,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 89,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 89,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 89,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 89,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 90,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 90,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 90,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 90,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 90,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 91,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 91,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 91,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 92,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 92,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 92,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 92,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 92,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 93,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 93,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 93,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 94,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 94,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 94,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 95,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 96,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 96,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 97,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 97,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 98,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 98,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 99,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 99,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 99,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 99,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 99,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 100,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 100,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 100,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 100,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 100,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 101,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 101,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 101,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 101,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 101,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 102,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 102,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 103,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 103,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 104,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 104,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 105,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 106,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 107,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 108,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 108,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 108,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 108,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 108,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 109,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 109,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 109,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 109,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 109,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 110,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 110,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 110,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 110,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 110,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 111,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 112,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 113,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 113,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 113,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 114,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 114,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 114,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 115,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 115,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 115,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 116,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 116,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 116,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 117,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 117,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 117,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 118,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 118,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 118,
+    "personality_id": 5,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 119,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 119,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 119,
+    "personality_id": 5,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 120,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 120,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 120,
+    "personality_id": 5,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 121,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 121,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 122,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 122,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 123,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 123,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 124,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 124,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 125,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 125,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 125,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 125,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 125,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 126,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 126,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 126,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 126,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 126,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 127,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 127,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 127,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 127,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 127,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 128,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 128,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 129,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 129,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 130,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 130,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 131,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 131,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 132,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 132,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 132,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 133,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 133,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 133,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 134,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 134,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 135,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 135,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 136,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 136,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 137,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 137,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 138,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 138,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 139,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 139,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 140,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 140,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 141,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 141,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 142,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 143,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 144,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 145,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 145,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 145,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 146,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 146,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 146,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 147,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 147,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 147,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 147,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 148,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 148,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 148,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 148,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 149,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 149,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 149,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 149,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 150,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 150,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 150,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 151,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 151,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 151,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 152,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 152,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 152,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 153,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 153,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 154,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 154,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 155,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 155,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 156,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 156,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 156,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 157,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 157,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 157,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 158,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 158,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 158,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 159,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 159,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 160,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 160,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 161,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 161,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 162,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 162,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 162,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 162,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 162,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 165,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 165,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 166,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 166,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 167,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 167,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 168,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 168,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 168,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 168,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 168,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 169,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 169,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 169,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 169,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 169,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 170,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 170,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 170,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 170,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 170,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 171,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 171,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 171,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 172,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 172,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 172,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 173,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 173,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 173,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 174,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 175,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 176,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 177,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 177,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 178,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 178,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 179,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 179,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 180,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 180,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 181,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 182,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 183,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 183,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 183,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 183,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 183,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 184,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 184,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 184,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 184,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 184,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 185,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 185,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 186,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 186,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 187,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 187,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 188,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 188,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 189,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 189,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 190,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 190,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 191,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 192,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 192,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 193,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 193,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 193,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 194,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 194,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 194,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 195,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 195,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 195,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 196,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 196,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 196,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 197,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 197,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 197,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 198,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 198,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 199,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 199,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 200,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 200,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 201,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 201,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 201,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 202,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 202,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 202,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 203,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 203,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 204,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 204,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 205,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 205,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 206,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 206,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 207,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 207,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 207,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 207,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 207,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 208,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 208,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 208,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 208,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 208,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 209,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 209,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 209,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 209,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 209,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 210,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 210,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 210,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 211,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 211,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 211,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 212,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 212,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 212,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 212,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 212,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 213,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 213,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 213,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 213,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 213,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 216,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 216,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 217,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 217,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 218,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 218,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 219,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 219,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 219,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 219,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 219,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 220,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 220,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 220,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 221,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 221,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 222,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 222,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 223,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 223,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 224,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 224,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 225,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 225,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 226,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 226,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 226,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 227,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 227,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 227,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 228,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 228,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 228,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 229,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 229,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 230,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 230,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 231,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 231,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 231,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 231,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 231,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 232,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 232,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 232,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 232,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 232,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 233,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 233,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 233,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 233,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 233,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 237,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 237,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 238,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 238,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 239,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 239,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 240,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 240,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 241,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 241,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 244,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 244,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 244,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 244,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 244,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 245,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 245,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 245,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 245,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 245,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 246,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 246,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 247,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 247,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 248,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 248,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 249,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 249,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 250,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 250,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 251,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 251,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 252,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 252,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 253,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 253,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 254,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 254,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 255,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 255,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 255,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 256,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 256,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 256,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 257,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 257,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 257,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 258,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 259,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 260,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 261,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 261,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 261,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 261,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 261,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 262,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 262,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 262,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 262,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 262,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 263,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 263,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 264,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 264,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 265,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 265,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 269,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 269,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 270,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 270,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 270,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 270,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 271,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 271,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 271,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 271,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 272,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 272,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 273,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 273,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 273,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 274,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 274,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 274,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 275,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 275,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 275,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 276,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 276,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 276,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 277,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 277,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 278,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 278,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 279,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 279,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 280,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 280,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 281,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 281,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 282,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 282,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 282,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 283,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 283,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 284,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 284,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 285,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 285,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 285,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 286,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 286,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 286,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 287,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 287,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 288,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 288,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 289,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 289,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 290,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 290,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 291,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 291,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 291,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 292,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 292,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 292,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 293,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 293,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 294,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 294,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 295,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 295,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 296,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 296,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 296,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 297,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 297,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 297,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 298,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 298,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 298,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 299,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 299,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 299,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 300,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 300,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 300,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 301,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 301,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 301,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 302,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 302,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 306,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 307,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 307,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 307,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 307,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 307,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 308,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 308,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 308,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 308,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 308,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 309,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 309,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 309,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 309,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 309,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 310,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 310,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 311,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 311,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 312,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 312,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 313,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 313,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 313,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 314,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 314,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 314,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 315,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 315,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 315,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 315,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 316,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 316,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 316,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 317,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 317,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 317,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 317,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 318,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 318,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 318,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 318,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 319,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 319,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 319,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 319,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 320,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 320,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 320,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 321,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 321,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 321,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 322,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 322,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 322,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 323,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 323,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 323,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 323,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 324,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 324,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 324,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 324,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 325,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 325,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 326,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 326,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 327,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 327,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 327,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 327,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 327,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 328,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 328,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 328,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 328,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 328,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 329,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 329,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 329,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 329,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 329,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 330,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 330,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 330,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 331,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 331,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 331,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 332,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 332,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 332,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 333,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 333,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 333,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 334,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 334,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 334,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 335,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 335,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 335,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 336,
+    "personality_id": 3,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 336,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 336,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 337,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 337,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 337,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 337,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 338,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 338,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 339,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 339,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 340,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 340,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 340,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 341,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 341,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 341,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 342,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 342,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 342,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 342,
+    "personality_id": 5,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 343,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 343,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 343,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 343,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 343,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 344,
+    "personality_id": 2,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 344,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 344,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 344,
+    "personality_id": 5,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 345,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 345,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 345,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 346,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 346,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 346,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 347,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 347,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 347,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 4,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 7,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 7,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 10,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 10,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 10,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 11,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 11,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 20,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 20,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 29,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 29,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 29,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 35,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 40,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 43,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 48,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 48,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 65,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 65,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 78,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 78,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 78,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 78,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 78,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 110,
+    "personality_id": 1,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 110,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 110,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 110,
+    "personality_id": 4,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 110,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 115,
+    "personality_id": 3,
+    "score": 6,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 115,
+    "personality_id": 4,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 115,
+    "personality_id": 5,
+    "score": 10,
+    "reason": "魔防+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 117,
+    "personality_id": 3,
+    "score": 10,
+    "reason": "速度+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 117,
+    "personality_id": 4,
+    "score": 10,
+    "reason": "魔攻+契合核心属性，物攻-影响较小"
+  },
+  {
+    "pet_id": 117,
+    "personality_id": 5,
+    "score": 7,
+    "reason": "物攻-影响较小"
+  },
+  {
+    "pet_id": 122,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 122,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 131,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 131,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 144,
+    "personality_id": 1,
+    "score": 8,
+    "reason": "物攻+契合核心属性"
+  },
+  {
+    "pet_id": 192,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 192,
+    "personality_id": 2,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 200,
+    "personality_id": 1,
+    "score": 10,
+    "reason": "物攻+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 200,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 204,
+    "personality_id": 4,
+    "score": 8,
+    "reason": "魔攻+契合核心属性"
+  },
+  {
+    "pet_id": 204,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  },
+  {
+    "pet_id": 228,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 228,
+    "personality_id": 2,
+    "score": 10,
+    "reason": "速度+契合核心属性，魔攻-影响较小"
+  },
+  {
+    "pet_id": 228,
+    "personality_id": 3,
+    "score": 8,
+    "reason": "速度+契合核心属性"
+  },
+  {
+    "pet_id": 286,
+    "personality_id": 1,
+    "score": 7,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 286,
+    "personality_id": 2,
+    "score": 6,
+    "reason": "魔攻-影响较小"
+  },
+  {
+    "pet_id": 286,
+    "personality_id": 5,
+    "score": 8,
+    "reason": "魔防+契合核心属性"
+  }
+]

@@ -1,0 +1,388 @@
+/* ===== 洛克王国图鉴助手 — 暗黑马戏团主题 ===== */
+
+/* CSS 设计令牌 */
+:root {
+  /* 背景体系 */
+  --bg-deep: #0a0012;
+  --bg-base: #10001a;
+  --bg-elevated: #1a0a2e;
+  --bg-card: rgba(22, 8, 40, 0.75);
+  --bg-glass: rgba(10, 0, 20, 0.65);
+
+  /* 强调色 — 金黄色（舞台灯光） */
+  --gold: #f0c040;
+  --gold-light: #ffd76e;
+  --gold-glow: 0 0 14px rgba(240, 192, 64, 0.35);
+  --gold-gradient: linear-gradient(135deg, #f0c040 0%, #d4a020 100%);
+
+  /* 辅助色 — 品红/紫红（小丑元素） */
+  --magenta: #e04078;
+  --magenta-light: #f06098;
+  --magenta-glow: 0 0 14px rgba(224, 64, 120, 0.35);
+  --magenta-gradient: linear-gradient(135deg, #f06090 0%, #c03060 100%);
+
+  /* 文字 */
+  --text-primary: #ece0f0;
+  --text-secondary: #b0a0c0;
+  --text-muted: #706080;
+
+  /* 边框 */
+  --border-subtle: rgba(240, 192, 64, 0.12);
+  --border-glow: rgba(240, 192, 64, 0.25);
+
+  /* 阴影 */
+  --shadow-card: 0 4px 24px rgba(0, 0, 0, 0.4), 0 0 1px var(--border-glow);
+  --shadow-glow-gold: 0 0 20px rgba(240, 192, 64, 0.2);
+  --shadow-glow-magenta: 0 0 20px rgba(224, 64, 120, 0.2);
+
+  /* 圆角 */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+
+  /* 过渡 */
+  --ease-smooth: cubic-bezier(0.4, 0, 0.2, 1);
+  --duration-fast: 0.15s;
+  --duration-normal: 0.3s;
+}
+
+/* ===== 全局重置 ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC',
+    'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+  font-size: 14px;
+  color: var(--text-primary);
+  /* 深邃暗紫径向渐变背景 */
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(120, 40, 100, 0.25) 0%, transparent 60%),
+    radial-gradient(ellipse at 50% 100%, rgba(40, 20, 80, 0.2) 0%, transparent 50%),
+    var(--bg-base);
+  background-attachment: fixed;
+  -webkit-font-smoothing: antialiased;
+  touch-action: manipulation;
+}
+
+#app {
+  min-height: 100vh;
+}
+
+/* ===== 页面过渡动画 ===== */
+.page-enter-active {
+  transition: all 0.3s var(--ease-smooth);
+}
+.page-leave-active {
+  transition: all 0.2s var(--ease-smooth);
+}
+.page-enter-from {
+  opacity: 0;
+  transform: translateY(12px);
+}
+.page-leave-to {
+  opacity: 0;
+  transform: translateY(-6px);
+}
+
+/* ===== 毛玻璃导航栏 ===== */
+.van-nav-bar {
+  background: var(--bg-glass) !important;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border-subtle) !important;
+}
+.van-nav-bar__title {
+  color: var(--text-primary) !important;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+.van-nav-bar__arrow {
+  color: var(--gold) !important;
+}
+
+/* ===== 搜索栏 ===== */
+.van-search {
+  background: transparent !important;
+  padding: 12px 16px !important;
+}
+.van-search__content {
+  background: var(--bg-glass) !important;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-subtle) !important;
+  border-radius: 20px !important;
+  transition: border-color var(--duration-normal) var(--ease-smooth);
+}
+.van-search__content:focus-within {
+  border-color: var(--gold) !important;
+  box-shadow: var(--gold-glow);
+}
+.van-search__field {
+  color: var(--text-primary) !important;
+}
+.van-search__field::placeholder {
+  color: var(--text-muted) !important;
+}
+
+/* ===== 底部导航栏（毛玻璃） ===== */
+.van-tabbar {
+  background: var(--bg-glass) !important;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-top: 1px solid var(--border-subtle) !important;
+}
+.van-tabbar-item {
+  color: var(--text-muted) !important;
+  font-size: 11px !important;
+  transition: color var(--duration-normal) var(--ease-smooth);
+}
+.van-tabbar-item--active {
+  color: var(--gold) !important;
+}
+.van-tabbar-item__icon {
+  font-size: 20px !important;
+}
+
+/* ===== 单元格分组 ===== */
+.van-cell-group {
+  background: transparent !important;
+  margin: 8px 0;
+}
+.van-cell-group__title {
+  padding: 16px 16px 8px !important;
+  font-size: 12px !important;
+  font-weight: 600 !important;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--gold) !important;
+  background: transparent !important;
+}
+
+/* ===== 单元格 ===== */
+.van-cell {
+  background: var(--bg-card) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--border-subtle) !important;
+  border-radius: var(--radius-md) !important;
+  margin: 0 12px 8px !important;
+  color: var(--text-primary) !important;
+  transition: all var(--duration-normal) var(--ease-smooth);
+}
+.van-cell:active {
+  border-color: var(--gold) !important;
+  box-shadow: var(--shadow-glow-gold);
+  transform: scale(0.985);
+}
+.van-cell__label {
+  color: var(--text-secondary) !important;
+}
+.van-cell__value {
+  color: var(--text-secondary) !important;
+}
+
+/* ===== 标签 ===== */
+.van-tag {
+  border-radius: 4px !important;
+  font-size: 11px !important;
+  letter-spacing: 0.3px;
+}
+.van-tag--primary {
+  background: var(--gold-gradient) !important;
+  color: #1a0010 !important;
+  font-weight: 700 !important;
+  border: none !important;
+}
+.van-tag--default {
+  background: rgba(255, 255, 255, 0.06) !important;
+  color: var(--text-secondary) !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+}
+.van-tag--warning {
+  background: var(--magenta-gradient) !important;
+  color: #fff !important;
+  border: none !important;
+}
+
+/* ===== 按钮 ===== */
+.van-button--primary {
+  background: var(--gold-gradient) !important;
+  border: none !important;
+  color: #1a0010 !important;
+  font-weight: 700 !important;
+  border-radius: var(--radius-md) !important;
+  box-shadow: var(--gold-glow);
+  transition: all var(--duration-normal) var(--ease-smooth);
+}
+.van-button--primary:active {
+  transform: scale(0.96);
+  filter: brightness(1.15);
+}
+
+/* ===== 下拉菜单 ===== */
+.van-dropdown-menu {
+  background: transparent !important;
+}
+.van-dropdown-menu__bar {
+  background: var(--bg-glass) !important;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-subtle) !important;
+  border-radius: var(--radius-md) !important;
+  box-shadow: none !important;
+}
+.van-dropdown-menu__title {
+  color: var(--text-primary) !important;
+}
+.van-dropdown-item__option {
+  color: var(--text-primary) !important;
+}
+.van-dropdown-item__option--active {
+  color: var(--gold) !important;
+}
+
+/* ===== 弹窗 ===== */
+.van-dialog {
+  background: var(--bg-elevated) !important;
+  border: 1px solid var(--border-glow) !important;
+  border-radius: var(--radius-lg) !important;
+  box-shadow: var(--shadow-card), var(--shadow-glow-gold) !important;
+}
+.van-dialog__header {
+  color: var(--gold) !important;
+}
+.van-dialog__message {
+  color: var(--text-secondary) !important;
+}
+
+/* ===== Popup ===== */
+.van-popup {
+  background: var(--bg-elevated) !important;
+  border-radius: var(--radius-lg) var(--radius-lg) 0 0 !important;
+}
+.van-picker {
+  background: transparent !important;
+}
+.van-picker__toolbar {
+  background: transparent !important;
+}
+.van-picker__cancel, .van-picker__confirm {
+  color: var(--gold) !important;
+}
+.van-picker-column__item {
+  color: var(--text-primary) !important;
+}
+.van-picker-column__item--selected {
+  color: var(--gold) !important;
+  font-weight: 700;
+}
+
+/* ===== 开关 ===== */
+.van-switch--on {
+  background-color: var(--magenta) !important;
+}
+
+/* ===== 空状态 — 迪莫 ===== */
+.empty-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 48px 20px;
+}
+.empty-img {
+  width: 140px;
+  height: 140px;
+  opacity: 0.8;
+  filter: drop-shadow(0 0 16px rgba(240, 192, 64, 0.15));
+  transition: all var(--duration-normal) var(--ease-smooth);
+}
+.empty-img:active {
+  transform: scale(1.05);
+  filter: drop-shadow(0 0 24px rgba(240, 192, 64, 0.3));
+}
+.empty-text {
+  margin-top: 16px;
+  font-size: 14px;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+}
+
+/* 保留兼容 Vant 空状态覆盖 */
+.van-empty {
+  background: transparent !important;
+  padding: 40px 0;
+}
+.van-empty__description {
+  color: var(--text-muted) !important;
+}
+
+/* ===== 加载 ===== */
+.van-loading {
+  color: var(--gold) !important;
+}
+.van-loading__text {
+  color: var(--text-secondary) !important;
+}
+
+/* ===== 下拉刷新 ===== */
+.van-pull-refresh {
+  background: transparent !important;
+}
+
+/* ===== 图片 ===== */
+.van-image {
+  border-radius: var(--radius-sm);
+  background: rgba(255, 255, 255, 0.03);
+}
+
+/* ===== 滚动条美化 ===== */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(240, 192, 64, 0.2);
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--gold);
+}
+
+/* ===== 通用工具类 ===== */
+.glass-panel {
+  background: var(--bg-glass);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+}
+.glow-card {
+  background: var(--bg-card);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  transition: all var(--duration-normal) var(--ease-smooth);
+}
+.glow-card:hover, .glow-card:active {
+  border-color: var(--magenta);
+  box-shadow: var(--shadow-glow-magenta);
+}
+
+/* ===== 闪烁动画（金色微光） ===== */
+@keyframes shimmer {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.75; }
+}
+.shimmer {
+  animation: shimmer 2s ease-in-out infinite;
+}

@@ -1,0 +1,33 @@
+{
+  "name": "roco-helper",
+  "version": "1.0.0",
+  "description": "洛克王国攻略助手",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@capacitor-community/sqlite": "^6.0.0",
+    "@capacitor/core": "^6.2.0",
+    "@vant/use": "^1.6.0",
+    "echarts": "^5.6.0",
+    "pinia": "^2.3.0",
+    "pinyin-pro": "^3.28.1",
+    "vant": "^4.9.0",
+    "vue": "^3.5.0",
+    "vue-echarts": "^7.0.0",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/ios": "^6.2.0",
+    "@vant/auto-import-resolver": "^1.3.0",
+    "@vitejs/plugin-vue": "^5.2.0",
+    "unplugin-vue-components": "^0.28.0",
+    "vite": "^6.0.0"
+  }
+}
